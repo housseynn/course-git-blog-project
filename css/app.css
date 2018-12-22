@@ -85,12 +85,12 @@ article header {
 }
 
 time {
-    color: #7d97ad;
+    color: red;
 }
 
 article img {
     height: auto;
-    width: 100%;
+    width: 150%;
 }
 
 .read-more {
